@@ -1,8 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
-
-
-/* CSS Document */
 p {
 	color:lightpink;
 	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
@@ -12,7 +9,7 @@ p {
 	padding: 10px;	
 }
 h1 { 
-	font-family:"NikolinaGrubisic";
+	font-family: "NikolinaGrubisic";
 	font-size: 50px;
 	color:lightpink;
 	background-color:lightskyblue;
